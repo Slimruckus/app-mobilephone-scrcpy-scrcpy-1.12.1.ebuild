@@ -1,0 +1,1 @@
+# app-mobilephone-scrcpy-scrcpy-1.12.1.ebuild
